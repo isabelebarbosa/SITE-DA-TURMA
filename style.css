@@ -1,9 +1,9 @@
-body{
+.cabecalho{
      background-color:purple;
 }
-h1{
+.cabecalho-titulo{
     color:black;
 }
-p{
-    color:white;
+.cabecalho-item{
+    color:blue;
 }
